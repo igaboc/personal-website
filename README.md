@@ -30,9 +30,11 @@ Place in East London I loved to hang out when I was living there. Their website 
 #### Music
 Subconsciously, the music I was listening to at the time also influenced the website design without even knowing it. Black and white was a common theme with album art I was listening to at the time which was generally the old school hip hop playlist on Spotify, and The XX.
 
-[NWA](http://3.bp.blogspot.com/-CwY-JFwMa1A/VPIzmuv_JWI/AAAAAAAAUHc/nKkYueR-zGc/s1600/Straight-Outta-Compton-NWA-Movie-2.jpg "NWA album art")
+[NWA]
+![alt text](http://3.bp.blogspot.com/-CwY-JFwMa1A/VPIzmuv_JWI/AAAAAAAAUHc/nKkYueR-zGc/s1600/Straight-Outta-Compton-NWA-Movie-2.jpg "NWA album art")
 
-[The XX](https://i.ytimg.com/vi/sI6hApZPv7A/maxresdefault.jpg "The XX")
+[The XX]
+![alt text](https://i.ytimg.com/vi/sI6hApZPv7A/maxresdefault.jpg "The XX")
 
 
 
