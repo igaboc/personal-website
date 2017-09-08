@@ -19,8 +19,10 @@ Two things that I focused on my website:
 Initially I went straight to Pinterest to get ideas and pin items onto my moodboard. I took anything that I saw on other people's websites, and began pinning them onto my board (i.e. geometric shapes, lines, artistic images, fashion items). However, after taking a step back and reviewed my moodboard, I found that the items did not match my personality. So I took a different approach, and started working on the content. By focusing on the content, this reiterated the purpose behind the website (i.e. showcase my work) and who the audience was (which was potential hiring managers, recruiters, and fellow developers), and wanted to ensure that the design complimented the content and not the other way around.
 
 
-### The Moodboard / The Inspiration / The Influeces
+### The Influences / The Inspiration / The Moodboard
 TODO: Images and descriptions
+
+[Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
 
 ### Color Palette
 TODO: Images and descriptions
