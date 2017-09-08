@@ -10,7 +10,8 @@ The aim of this project was to create a personal website, that provides informat
 * Create a 'contact me' form that will send me an email notification when a user has submitted this form
 * An appropriate UX design that will enable professionals to intuitively navigate through the website
 
-## The Design
+## The [Figma Design](https://www.figma.com/file/cdYkMjv29QFiNMlfpAi1i8U0/Personal-Website-Design)
+
 Two things that I focused on my website:
 1. A clean design that highlighted sections/information that I wanted to communicate to the audience
 2. Chosen style/theme that complimented my personality
@@ -28,7 +29,10 @@ Place in East London I loved to hang out when I was living there. Their website 
 
 #### Other Personal Websites
 [Daniel Spatzek](http://www.danielspatzek.com/Home)
-![alt text] (https://www.cssdesignawards.com/cdasites/2017/201703/20170321004151.jpg "D.Spatzek's Snapshot of Website")
+
+I liked Spatzek's use of lime green contrast against the black and white background and trialled this look on my website. In the end I wasn't a fan of this on my website and chose a design without a bright color contrast.
+
+![alt text](https://www.cssdesignawards.com/cdasites/2017/201703/20170321004151.jpg "Snapshot of D.Spatzek's Website")
 
 #### Music
 I was listening to a lot of the old school hip hop playlist on Spotify. 
@@ -44,25 +48,27 @@ Here's a sample of the album art that appeared on this play list...
 ... and the contrast likely did influence my decisions on the color palette and wanting to use
 
 #### My Moodboard
+Link to my Pinterest moodboard below. The top half of the pins on this moodboard were the influences to the final piece. The bottom half of pins were the initial pins that were placed onto the moodboard prior to creating the content for my website.
+
 [Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
 
 
 ### Color Palette
 
-
+Four color palettes created during the design process. General theme was black, white and grays with a splash of color. Similar to Daniel Spatzek's.
 
 [Color Palette](https://www.figma.com/file/Z1ADCNcvr6lVLk04sz14aI9e/Personal-Website-Design---Color-Palette "Color Palette")
 
 ### Typography
-TODO: Fonts used in this project
+Logo: [Special Elite](https://fonts.google.com/specimen/Special+Elite)
 
-### Mock ups
-TODO: Show the 5 mock up designs
+Main Headings: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans)
 
-### Favicon Design
-TODO: Images and descriptions. Use of favicon generator and the three outputs
+Paragraphs: [Ubunto Mono](https://fonts.google.com/specimen/Ubuntu+Mono)
 
 ### Chosen Design
+Refer to [Figma Design](https://www.figma.com/file/cdYkMjv29QFiNMlfpAi1i8U0/Personal-Website-Design?node-id=76%3A55) for the 5 designs.
+
 TODO: Discuss reasons why you had chose the final design and UI/UX decisions made
 
 ## The Code
