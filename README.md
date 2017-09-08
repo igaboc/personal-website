@@ -23,13 +23,13 @@ TODO: Show the 5 mock up designs
 TODO: Images and descriptions. Use of favicon generator and the three outputs
 
 ### Chosen Design
-TODO: Discuss reasons why you had chose the final design
+TODO: Discuss reasons why you had chose the final design and UI/UX decisions made
 
 ## The Code
 
 TODO: Discuss HTML and CSS. The software used Issues encountered: 
-..* form submission and use of email client
-..* nav bar - choice to remove the fixed due to other elements in page over laying on nav bar
+* form submission and use of email client
+* nav bar - choice to remove the fixed due to other elements in page over laying on nav bar
 
 ## Testing and User Feedback
 TODO: Discuss how you tested this in the desktop browser, and mobile after deploying on Netlify. And sent it over to people to review and provide feedback - how someone spotted a typo and how you fixed it
