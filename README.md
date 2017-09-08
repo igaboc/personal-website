@@ -30,11 +30,12 @@ Place in East London I loved to hang out when I was living there. Their website 
 #### Music
 Subconsciously, the music I was listening to at the time also influenced the website design without even knowing it. Black and white was a common theme with album art I was listening to at the time which was generally the old school hip hop playlist on Spotify, and The XX.
 
-##### NWA
-![alt text](http://3.bp.blogspot.com/-CwY-JFwMa1A/VPIzmuv_JWI/AAAAAAAAUHc/nKkYueR-zGc/s1600/Straight-Outta-Compton-NWA-Movie-2.jpg "NWA album art")
+##### Old School Hip Hop House Party
+![alt text](http://hiphopgoldenage.com/wp-content/uploads/2016/01/IMG_20160128_095646.jpg "hip hop album art")
 
-##### The XX
-![alt text](https://i.ytimg.com/vi/sI6hApZPv7A/maxresdefault.jpg "The XX")
+..which had a lot of ...
+
+![alt text](http://assets.nydailynews.com/polopoly_fs/1.2610379.1461273674!/img/httpImage/image.jpg_gen/derivatives/article_1200/157281376.jpg "Parental Advisory Image")
 
 
 
