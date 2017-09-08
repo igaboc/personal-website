@@ -26,6 +26,10 @@ Place in East London I loved to hang out when I was living there. Their website 
 [Boxpark Website](https://www.boxpark.co.uk/)
 ![alt text](https://www.boxpark.co.uk/assets/Uploads/_resampled/FillWyIxOTIwIiwiMTA4MCJd/Boxpark-Shoreditch-East.jpg "Box Park Image")
 
+#### Other Personal Websites
+[Daniel Spatzek](http://www.danielspatzek.com/Home)
+![alt text] (https://www.cssdesignawards.com/cdasites/2017/201703/20170321004151.jpg "D.Spatzek's Snapshot of Website")
+
 #### Music
 I was listening to a lot of the old school hip hop playlist on Spotify. 
 
@@ -44,7 +48,10 @@ Here's a sample of the album art that appeared on this play list...
 
 
 ### Color Palette
-TODO: Images and descriptions
+
+
+
+[Color Palette](https://www.figma.com/file/Z1ADCNcvr6lVLk04sz14aI9e/Personal-Website-Design---Color-Palette "Color Palette")
 
 ### Typography
 TODO: Fonts used in this project
