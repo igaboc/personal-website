@@ -23,11 +23,17 @@ Initially I went straight to Pinterest to get ideas and pin items onto my moodbo
 
 
 #### Boxpark Website
-Place in East London I loved to hang out when I was living there. Their website had the biggest impact onto the final result.
+Place in East London I loved to hang out when I was living there. Their website and fonts used had the influence onto the color scheme and typography on my personal website.
 [Boxpark Website](https://www.boxpark.co.uk/)
 ![alt text](https://www.boxpark.co.uk/assets/Uploads/_resampled/FillWyIxOTIwIiwiMTA4MCJd/Boxpark-Shoreditch-East.jpg "Box Park Image")
 
 #### Music
+Subconsciously, the music I was listening to at the time also influenced the website design without even knowing it. Black and white was a common theme with album art I was listening to at the time which was generally the old school hip hop playlist on Spotify, and The XX.
+
+[NWA](http://3.bp.blogspot.com/-CwY-JFwMa1A/VPIzmuv_JWI/AAAAAAAAUHc/nKkYueR-zGc/s1600/Straight-Outta-Compton-NWA-Movie-2.jpg "NWA album art")
+
+[The XX](https://i.ytimg.com/vi/sI6hApZPv7A/maxresdefault.jpg "The XX")
+
 
 
 [Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
