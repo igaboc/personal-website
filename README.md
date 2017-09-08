@@ -20,7 +20,15 @@ Initially I went straight to Pinterest to get ideas and pin items onto my moodbo
 
 
 ### The Influences / The Inspiration / The Moodboard
-TODO: Images and descriptions
+
+
+#### Boxpark Website
+Place in East London I loved to hang out when I was living there. Their website had the biggest impact onto the final result.
+[Boxpark Website](https://www.boxpark.co.uk/)
+![alt text](https://www.boxpark.co.uk/assets/Uploads/_resampled/FillWyIxOTIwIiwiMTA4MCJd/Boxpark-Shoreditch-East.jpg "Box Park Image")
+
+#### Music
+
 
 [Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
 
