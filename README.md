@@ -21,25 +21,27 @@ Initially I went straight to Pinterest to get ideas and pin items onto my moodbo
 
 ### The Influences / The Inspiration / The Moodboard
 
-
 #### Boxpark Website
 Place in East London I loved to hang out when I was living there. Their website and fonts used had the influence onto the color scheme and typography on my personal website.
 [Boxpark Website](https://www.boxpark.co.uk/)
 ![alt text](https://www.boxpark.co.uk/assets/Uploads/_resampled/FillWyIxOTIwIiwiMTA4MCJd/Boxpark-Shoreditch-East.jpg "Box Park Image")
 
 #### Music
-Subconsciously, the music I was listening to at the time also influenced the website design without even knowing it. Black and white was a common theme with album art I was listening to at the time which was generally the old school hip hop playlist on Spotify, and The XX.
+I was listening to a lot of the old school hip hop playlist on Spotify. 
 
-##### Old School Hip Hop House Party
+Here's a sample of the album art that appeared on this play list...
+
 ![alt text](http://hiphopgoldenage.com/wp-content/uploads/2016/01/IMG_20160128_095646.jpg "hip hop album art")
 
 ..which had a lot of ...
 
 ![alt text](http://assets.nydailynews.com/polopoly_fs/1.2610379.1461273674!/img/httpImage/image.jpg_gen/derivatives/article_1200/157281376.jpg "Parental Advisory Image")
 
+... and the contrast likely did influence my decisions on the color palette and wanting to use
 
-
+#### My Moodboard
 [Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
+
 
 ### Color Palette
 TODO: Images and descriptions
