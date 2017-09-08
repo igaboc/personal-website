@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>aboc</title>
+    <!--favicon START-->
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- favicon END -->
+    <!--stylesheet START-->
+    <link rel="stylesheet" type="text/css" href="/assets/main.css">
+    <!--stylesheet END-->
+    <!--font family START-->
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700" rel="stylesheet">
+    <!--font family END-->
+</head>
+
+<body>
+    <!-- LOGO FOR MOBILE -->
+    <div class="logo-small">
+        <h1><a href="#home">ISABELLE</a></h1>
+    </div>
+    <!-- NAVIGATIONAL BAR -->
+        <!-- -SMALL DEVICES- -->
+    <div class="nav-bar-small">
+        <ul>
+            <li><a href="#about">about</a></li>
+            <li><a href="#resume">resume</a></li>
+            <li><a href="#projects">projects</a></li>
+            <li><a href="#contact">contact</a></li>
+        </ul>
+    </div>
+        <!-- -MED TO LRG DEVICES-  -->
+    <div class="nav-bar-med">
+        <ul>
+            <li class="logo-med"><a href="#home">ISABELLE</a></li> 
+            <li class="nav-element-med"><a href="#about">about</a></li>
+            <li class="nav-element-med"><a href="#resume">resume</a></li>
+            <li class="nav-element-med"><a href="#projects">projects</a></li>
+            <li class="nav-element-med"><a href="#contact">contact</a></li> 
+        </ul>
+    </div>
+    <!-- MAIN PAGE SECTION -->
+    <div class="main-page">
+        <div class="main-headings-sml">
+            <h1 class="main-headings-sml-first">ISABELLE</h1>
+            <h1 class="main-headings-sml-last">GABOC</h1>
+            <h2>JNR DEVELOPER</h2>
+        </div>
+        <div class="main-headings-med">
+            <h1>ISABELLE GABOC</h1>
+            <h2>JUNIOR DEVELOPER</h2>
+        </div>
+    </div>
+    <div class="about-skills-section">
+    <!-- ABOUT ME SECTION -->
+        <div id="about" class="about-me">
+            <div class="section-heading">
+                <h3>about me</h3> 
+            </div>
+            <div class="about-me-content">
+                <p>My name is Isabelle Gaboc. A Melbourne based student currently immersed in a coding bootcamp.</p>
+                <p>In my former career, I was an analyst - whom used data to tell people stories about what they needed to hear.</p>
+                <p>And now, I’m learning coding because I want to be able to tell stories on different kinds of platforms.</p> 
+            </div>
+        </div>
+    <!-- SKILLS SECTION -->
+        <div id="resume" class="skills">
+            <div class="section-heading">
+                <h3>skills</h3> 
+            </div>
+            <div class="skills-content">
+                <p>> HTML5</p>
+                <p>> CSS3</p>
+                <p>> RUBY</p>
+                <p>> SQL</p> 
+            </div>
+                <form class="cv-button" method="get" action="#">
+                    <button class="cv-button-text" type="submit" onclick="window.open('/assets/form/website_CV_2017.pdf')">my resume</button>
+                </form>
+        </div>
+    </div>
+    <!-- PROJECTS SECTION -->
+    <div id="projects" class="projects">
+        <div class="section-heading">
+            <h3>projects</h3> 
+        </div>
+        <div class="project-container">
+            <img src="/assets/img/digital-pt.png" alt="digital-pt screenshot" class="digital-pt-img">
+            <div class="project-content">
+                <h3>Digital PT</h3>
+                <p>Working in a team of four, we created a digital terminal application to help safely guide fitness finatics to reach their fitness goals</p>
+            </div>
+        </div>
+    </div>
+    <!-- FORM SECTION -->
+    <div id="contact" class="form-section">
+        <div class="section-heading">
+            <h3>let's talk</h3> 
+        </div>   
+        <div>
+            <form action="https://formspree.io/igaboc@gmail.com" method="POST">
+                <div class="form-input">
+                    <label for="fullname">Name:  </label>
+                    <input type="text" id="fullname" name="fullname" placeholder="Your name..."> 
+                </div>
+
+                <div class="form-input">
+                    <label for="email">Email:</label>
+                    <input type="text" id="email" name="_replyto" placeholder="Your email..."> 
+                </div>
+
+                <div class="form-message">
+                    <label for="message">Message:</label>
+                    <textarea name="Message" id="" cols="30" rows="10" placeholder="Your message..."></textarea>
+                </div>    
+
+                <input class="form-button" type="submit" value="Submit" name="submittedfromuser">
+            
+            </form>
+        </div>     
+    </div>
+    <!-- CONNECT SECTION -->
+    <div class="connect">
+        <a href="https://github.com/igaboc" target="_blank"><img src="/assets/img/github.png"></a>
+        <a href="https://www.linkedin.com/in/isabellegaboc/" target="_blank"><img src="/assets/img/linkedin.png"></a>
+        <a href="https://www.figma.com/files/recent" target="_blank"><img src="/assets/img/figma.png"></a>
+    </div>
+</body>
+</html>
