@@ -1,2 +1,2 @@
 # Personal Website Portfolio
-## [https://isabellegaboc.netlify.com/?#contact]
+## [https://isabellegaboc.netlify.com/]
