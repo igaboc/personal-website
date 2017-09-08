@@ -1,6 +1,14 @@
 # Personal Website Portfolio [https://isabellegaboc.netlify.com/]
 
-TODO: Brief description of the project
+The aim of this project was to create a personal website, that provides information about who I am, my skills, my resume, and how to contact me. Using the appropriate coding languages learnt (so far) from my intensive course (HTML and CSS), I have been able to create a website that will showcase the MVP for this project.
+
+## The Minimum Viable Product
+
+* Responsive website viewable on small, and medium/desktop devices
+* Contain information about me, my skills, my projects and how to contact me
+* Functional links to access my resume, and how to connect with me
+* Create a contact me form that will send me an email notification when a user has submitted this form
+* An appropriate UX design that will enable professionals to intuitively navigate through the website
 
 ## Design
 TODO:
