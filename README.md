@@ -24,6 +24,7 @@ Initially I went straight to Pinterest to get ideas and pin items onto my moodbo
 
 #### Chin Chin - The Book
 This book was sitting on my kitchen table as I was doing research at home. I liked the fonts and black and white contrast seen in this book and on their menu. 
+![alt text](https://www.broadsheet.com.au/media/cache/01/b5/01b50617476b861c738858e3b9a05d30.jpg "Chin Chin - the book")
 
 #### Boxpark Website
 Place in East London I loved to hang out when I was living there. Their website and fonts used had the influence onto the color scheme and typography on my personal website.
@@ -31,7 +32,6 @@ Place in East London I loved to hang out when I was living there. Their website 
 ![alt text](https://www.boxpark.co.uk/assets/Uploads/_resampled/FillWyIxOTIwIiwiMTA4MCJd/Boxpark-Shoreditch-East.jpg "Box Park Image")
 
 
-![alt text](https://www.broadsheet.com.au/media/cache/01/b5/01b50617476b861c738858e3b9a05d30.jpg "Chin Chin - the book")
 
 #### Other Personal Websites
 [Daniel Spatzek](http://www.danielspatzek.com/Home)
