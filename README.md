@@ -22,10 +22,16 @@ Initially I went straight to Pinterest to get ideas and pin items onto my moodbo
 
 ### The Influences / The Inspiration / The Moodboard
 
+#### Chin Chin - The Book
+This book was sitting on my kitchen table as I was doing research at home. I liked the fonts and black and white contrast seen in this book and on their menu. 
+
 #### Boxpark Website
 Place in East London I loved to hang out when I was living there. Their website and fonts used had the influence onto the color scheme and typography on my personal website.
 [Boxpark Website](https://www.boxpark.co.uk/)
 ![alt text](https://www.boxpark.co.uk/assets/Uploads/_resampled/FillWyIxOTIwIiwiMTA4MCJd/Boxpark-Shoreditch-East.jpg "Box Park Image")
+
+
+![alt text](https://www.broadsheet.com.au/media/cache/01/b5/01b50617476b861c738858e3b9a05d30.jpg "Chin Chin - the book")
 
 #### Other Personal Websites
 [Daniel Spatzek](http://www.danielspatzek.com/Home)
@@ -45,7 +51,7 @@ Here's a sample of the album art that appeared on this play list...
 
 ![alt text](http://assets.nydailynews.com/polopoly_fs/1.2610379.1461273674!/img/httpImage/image.jpg_gen/derivatives/article_1200/157281376.jpg "Parental Advisory Image")
 
-... and the contrast likely did influence my decisions on the color palette and wanting to use
+... and used this style to create a logo which can be seen in my figma board. I didn't end up using this because this style looked to similar to the rest of my page.
 
 #### My Moodboard
 Link to my Pinterest moodboard below. The top half of the pins on this moodboard were the influences to the final piece. The bottom half of pins were the initial pins that were placed onto the moodboard prior to creating the content for my website.
@@ -62,23 +68,24 @@ Four color palettes created during the design process. General theme was black, 
 ### Typography
 Logo: [Special Elite](https://fonts.google.com/specimen/Special+Elite)
 
-Main Headings: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans)
+Main Headings: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) - Originally this was meant to be 'Mina', a font I used in figma, unfortunately this was not available in Google fonts, and had to settle for Noto Sans as a replacement
 
 Paragraphs: [Ubunto Mono](https://fonts.google.com/specimen/Ubuntu+Mono)
 
-### Chosen Design
-Refer to [Figma Design](https://www.figma.com/file/cdYkMjv29QFiNMlfpAi1i8U0/Personal-Website-Design?node-id=76%3A55) for the 5 designs.
+### Single Page and UX Design Decisions and Why.
+Here are some of the decisions why I choose a single page design over multiple pages:
+1. The quantity of content did not require multiple pages. Perhaps when I decide to add more content onto my website, I may reconsider and have multiple pages
+2. Tells a better story - with the user scrolling top to bottom, they find out information about me, and then decide whether to contact or connect with me at the end of the page
+3. Provides the information the user needs to know about me with one page
+4. Its intuitive, and user will not get lost in the website having to go from page to page 
+5. The navigational bar at the top of the mobile design did not have a hamburger menu bar because of the single page design, and the nav bar only containing four buttons to click. If I decided to add more content/pages to the website, I may reconsider condensing the navigational pane to a menu bar.
+6. The CV, and links to LinkedIn, github, etc, open a new tab instead of loading the existing tab. This allows the user to still refer back to my website, rather than having to click on the back button on their browser
 
-TODO: Discuss reasons why you had chose the final design and UI/UX decisions made
+## Tools
 
-## The Code
-
-TODO: Discuss HTML and CSS. The software used Issues encountered: 
-* form submission and use of email client
-* nav bar - choice to remove the fixed due to other elements in page over laying on nav bar
-
-## Testing and User Feedback
-TODO: Discuss how you tested this in the desktop browser, and mobile after deploying on Netlify. And sent it over to people to review and provide feedback - how someone spotted a typo and how you fixed it
+### [Form Spree](https://formspree.io/ "Form Spree Website")
+As the HTML form does not allow browsers to route the form submission to an inbox, this tool was used as the 'middle man' of sending messages from my HTML page to my inbox which was easy to implement.
 
 ## The Final Product
-TODO: Discuss final product and any changes you may make in the future after you have learnt other supported languages
+
+I'm happy with the final product with the level of content and languages that I've learnt so far. However, the level of content on this page is quite minimal, and the layout will likely change once I have more content (or skills/experience). The one change I would make is being able to do smooth scrolling when clicking on links in navigational bar, so it is obviously to the user that they're looking a single page website - however after reading a few articles, it appears to require knowledge of JS or JQuery, which I currently do not have just yet. I'll likely implement this once I've had the time to learn this.
