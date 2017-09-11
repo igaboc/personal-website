@@ -86,6 +86,9 @@ Here are some of the decisions why I choose a single page design over multiple p
 ### [Form Spree](https://formspree.io/ "Form Spree Website")
 As the HTML form does not allow browsers to route the form submission to an inbox, this tool was used as the 'middle man' of sending messages from my HTML page to my inbox which was easy to implement.
 
+### [Favicon Generator](https://www.favicon-generator.org/ "Favicon Generator")
+Used this free website to create my favicon. I created my favicon on figma, and then loaded this onto the icon onto this website to generate the favicon for me. It took me three attempts to get to the final favicon that I was happy with.
+
 ## The Final Product
 
 I'm happy with the final product with the level of content and languages that I've learnt so far. However, the level of content on this page is quite minimal, and the layout will likely change once I have more content (or skills/experience). The one change I would make is being able to do smooth scrolling when clicking on links in navigational bar, so it is obviously to the user that they're looking a single page website - however after reading a few articles, it appears to require knowledge of JS or JQuery, which I currently do not have just yet. I'll likely implement this once I've had the time to learn this.
