@@ -17,10 +17,15 @@ Two things that I focused on my website:
 2. Chosen style/theme that complimented my personality
 
 ### Content First Approach
-Initially I went straight to Pinterest to get ideas and pin items onto my moodboard. I took anything that I saw on other people's websites, and began pinning them onto my board (i.e. geometric shapes, lines, artistic images, fashion items). However, after taking a step back and reviewed my moodboard, I found that the items did not match my personality. So I took a different approach, and started working on the content. By focusing on the content, this reiterated the purpose behind the website (i.e. showcase my work) and who the audience was (which was potential hiring managers, recruiters, and fellow developers), and wanted to ensure that the design complimented the content and not the other way around.
+Initially I went straight to Pinterest to get ideas and pin items onto my moodboard. I took anything that I saw on other people's websites, and began pinning them onto my board (i.e. geometric shapes, lines, artistic images, fashion items). However, after taking a step back and reviewed my moodboard, I found that the items did not match my personality. So I took a different approach, and started working on the content. By focusing on the content, this reiterated the purpose behind the website (i.e. showcase my work and my skills) and who the audience was (which was potential hiring managers, recruiters, and fellow developers), and wanted to ensure that the design complimented the content and not the other way around.
 
 
-### The Influences / The Inspiration / The Moodboard
+### The Moodboard / The Influences / The Inspiration
+#### My Moodboard
+
+As mentioned above, I initially used Pinterest as part of my research to get ideas for my website. However, as I began pinning items that I liked onto my moodboard, I found the themes from the items I pinned clashed and it began to confuse me. So I ended up ditching my moodboard and focused on my surroundings and experiences which you'll see as follows.
+
+[Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
 
 #### Chin Chin - The Book
 This book was sitting on my kitchen table as I was doing research at home. I liked the fonts and black and white contrast seen in this book and on their menu. 
@@ -53,10 +58,6 @@ Here's a sample of the album art that appeared on this play list...
 
 ... and used this style to create a logo which can be seen in my figma board. I didn't end up using this because this style looked to similar to the rest of my page.
 
-#### My Moodboard
-Link to my Pinterest moodboard below. The top half of the pins on this moodboard were the influences to the final piece. The bottom half of pins were the initial pins that were placed onto the moodboard prior to creating the content for my website.
-
-[Pinterest Board](https://au.pinterest.com/igaboc/personal-website-inspiration/ "Personal Website Moodboard")
 
 
 ### Color Palette
@@ -71,6 +72,11 @@ Logo: [Special Elite](https://fonts.google.com/specimen/Special+Elite)
 Main Headings: [Noto Sans](https://fonts.google.com/specimen/Noto+Sans) - Originally this was meant to be 'Mina', a font I used in figma, unfortunately this was not available in Google fonts, and had to settle for Noto Sans as a replacement
 
 Paragraphs: [Ubunto Mono](https://fonts.google.com/specimen/Ubuntu+Mono)
+
+### Personal Logo
+
+After playing around with a number of fonts to use as my logo, I decided on using the Special Elite font which was still worked will with the overall theme of the project, but was still recognisably different from the fonts used in the body. 
+
 
 ### Single Page and UX Design Decisions and Why.
 Here are some of the decisions why I choose a single page design over multiple pages:
