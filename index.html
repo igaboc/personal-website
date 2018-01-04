@@ -36,116 +36,153 @@
 </head>
 
 <body>
-    <!-- LOGO FOR MOBILE -->
-    <div class="logo-small">
-        <h1><a href="#home">ISABELLE</a></h1>
+  <!-- LOGO FOR MOBILE -->
+  <div class="logo-small">
+    <h1><a href="#home">ISABELLE</a></h1>
+  </div>
+  <!-- NAVIGATIONAL BAR -->
+    <!-- -SMALL DEVICES- -->
+  <div class="nav-bar-small">
+    <ul>
+      <li><a href="#about">about</a></li>
+      <li><a href="#resume">resume</a></li>
+      <li><a href="#projects">projects</a></li>
+      <li><a href="#contact">contact</a></li>
+    </ul>
+  </div>
+    <!-- -MED TO LRG DEVICES-  -->
+  <div class="nav-bar-med">
+    <ul>
+      <li class="logo-med"><a href="#home">ISABELLE</a></li> 
+      <li class="nav-element-med"><a href="#about">about</a></li>
+      <li class="nav-element-med"><a href="#resume">resume</a></li>
+      <li class="nav-element-med"><a href="#projects">projects</a></li>
+      <li class="nav-element-med"><a href="#contact">contact</a></li> 
+    </ul>
+  </div>
+  <!-- MAIN PAGE SECTION -->
+  <div class="main-page">
+    <div class="main-headings-sml">
+      <h1 class="main-headings-sml-first">ISABELLE</h1>
+      <h1 class="main-headings-sml-last">GABOC</h1>
+      <h2>JNR DEVELOPER</h2>
     </div>
-    <!-- NAVIGATIONAL BAR -->
-        <!-- -SMALL DEVICES- -->
-    <div class="nav-bar-small">
-        <ul>
-            <li><a href="#about">about</a></li>
-            <li><a href="#resume">resume</a></li>
-            <li><a href="#projects">projects</a></li>
-            <li><a href="#contact">contact</a></li>
-        </ul>
+    <div class="main-headings-med">
+      <h1>ISABELLE GABOC</h1>
+      <h2>JUNIOR DEVELOPER</h2>
     </div>
-        <!-- -MED TO LRG DEVICES-  -->
-    <div class="nav-bar-med">
-        <ul>
-            <li class="logo-med"><a href="#home">ISABELLE</a></li> 
-            <li class="nav-element-med"><a href="#about">about</a></li>
-            <li class="nav-element-med"><a href="#resume">resume</a></li>
-            <li class="nav-element-med"><a href="#projects">projects</a></li>
-            <li class="nav-element-med"><a href="#contact">contact</a></li> 
-        </ul>
+  </div>
+  <!-- ABOUT ME SECTION -->
+  <div class="about-skills-section">
+    <div id="about" class="about-me">
+      <div class="section-heading">
+        <h3>about me</h3> 
+      </div>
+      <div class="about-me-content">
+        <p>My name is Isabelle Gaboc. A Melbourne based student currently immersed in a coding bootcamp.</p>
+        <p>In my former career, I was an analyst - whom used data to tell people stories about what they needed to hear.</p>
+        <p>And now, I’m learning coding because I want to be able to tell stories on different kinds of platforms.</p> 
+        <p>When I'm not coding, you can find me either having a drink with friends, running, or travelling the world in search for new experiences.</p>
+      </div>
     </div>
-    <!-- MAIN PAGE SECTION -->
-    <div class="main-page">
-        <div class="main-headings-sml">
-            <h1 class="main-headings-sml-first">ISABELLE</h1>
-            <h1 class="main-headings-sml-last">GABOC</h1>
-            <h2>JNR DEVELOPER</h2>
+  <!-- SKILLS SECTION -->
+    <div id="resume" class="skills">
+      <div class="section-heading">
+        <h3>skills</h3> 
+      </div>
+      <div class="skills-content">
+        <div class="skills-content-column">
+          <p>> HTML/CSS</p>
+          <p>> RUBY</p>
+          <p>> SQL</p> 
+          <p>> JS</p>
         </div>
-        <div class="main-headings-med">
-            <h1>ISABELLE GABOC</h1>
-            <h2>JUNIOR DEVELOPER</h2>
+        
+        <div class="skills-content-column">
+          <p>> RAILS</p>
+          <p>> NODE JS</p>
+          <p>> REACT</p>
+          <p>> MONGO DB</p> 
         </div>
+      </div>
+      <form class="cv-button" method="get" action="#">
+        <button class="cv-button-text" type="submit" onclick="window.open('/assets/form/website_CV_2017.pdf')">download CV</button>
+      </form>
     </div>
-    <div class="about-skills-section">
-    <!-- ABOUT ME SECTION -->
-        <div id="about" class="about-me">
-            <div class="section-heading">
-                <h3>about me</h3> 
-            </div>
-            <div class="about-me-content">
-                <p>My name is Isabelle Gaboc. A Melbourne based student currently immersed in a coding bootcamp.</p>
-                <p>In my former career, I was an analyst - whom used data to tell people stories about what they needed to hear.</p>
-                <p>And now, I’m learning coding because I want to be able to tell stories on different kinds of platforms.</p> 
-                <p>When I'm not coding, you can find me either having a drink with friends, running, or travelling the world in search for new experiences.</p>
-            </div>
-        </div>
-    <!-- SKILLS SECTION -->
-        <div id="resume" class="skills">
-            <div class="section-heading">
-                <h3>skills</h3> 
-            </div>
-            <div class="skills-content">
-                <p>> HTML5</p>
-                <p>> CSS3</p>
-                <p>> RUBY</p>
-                <p>> SQL</p> 
-            </div>
-                <form class="cv-button" method="get" action="#">
-                    <button class="cv-button-text" type="submit" onclick="window.open('/assets/form/website_CV_2017.pdf')">my resume</button>
-                </form>
-        </div>
+  </div>
+  <!-- PROJECTS SECTION -->
+  <div id="projects" class="projects">
+    <div class="section-heading">
+      <h3>projects</h3> 
     </div>
-    <!-- PROJECTS SECTION -->
-    <div id="projects" class="projects">
-        <div class="section-heading">
-            <h3>projects</h3> 
-        </div>
-        <div class="project-container">
-            <img src="/assets/img/digital-pt.png" alt="digital-pt screenshot" class="digital-pt-img">
-            <div class="project-content">
-                <h3>Digital PT</h3>
-                <p>Working in a team of four, we created a digital terminal application to help safely guide fitness fanatics to reach their fitness goals</p>
-            </div>
-        </div>
+    <div class="project-container">
+      <img src="/assets/img/coming-soon.png" alt="Screenshot Coming Soon" class="jitsmob-img">
+      <div class="project-content">
+        <h3>JitsMob</h3>
+        <p>JitsMob aims to educate the Brazilian Jiu Jitsu (BJJ) community through online content. This client requested a dedicated website to assist in increase awareness and social media following, to eventually generate revenue from online content.</p>
+        <p>Tech Stack: ReactJS + NodeJS</p>
+        <a href="https://github.com/JazzHutchy/jitsmob" target="_blank">Visit Github here</a>
+      </div>
     </div>
-    <!-- FORM SECTION -->
-    <div id="contact" class="form-section">
-        <div class="section-heading">
-            <h3>let's talk</h3> 
-        </div>   
-        <div>
-            <form action="https://formspree.io/igaboc@gmail.com" method="POST">
-                <div class="form-input">
-                    <label for="fullname">Name:  </label>
-                    <input type="text" id="fullname" name="fullname" placeholder="Your name..."> 
-                </div>
+    <div class="project-container">
+      <img src="/assets/img/divvy.png" alt="Divvy Website Screenshot" class="divvy-img">
+      <div class="project-content">
+        <h3>Divvy</h3>
+        <p>Divvy is an online market place that enables people to rent out the stuff they don't always use. This online platform enables owners to gain additional cash for items they don't always use at home.</p>
+        <p>Tech Stack: Ruby on Rails</p>
+        <a href="https://github.com/igaboc/divvy" target="_blank">Visit Github here</a>
+      </div>
+    </div>
+    <div class="project-container">
+      <img src="/assets/img/eatup.png" alt="Eatup Website Screenshot" class="divvy-img">
+      <div class="project-content">
+        <h3>EATUP</h3>
+        <p>An online social website application that brings people together with similar food interest that matches people based on their food preferences for that day.</p>
+        <p>Tech Stack: Ruby on Rails</p>
+        <a href="https://github.com/miminum/hackathon_eatup" target="_blank">Visit Github here</a>
+      </div>
+    </div>
+    <div class="project-container">
+      <img src="/assets/img/digital-pt.png" alt="digital-pt screenshot" class="digital-pt-img">
+      <div class="project-content">
+        <h3>Digital PT</h3>
+        <p>Working in a team of four, we created a digital terminal application to help safely guide fitness fanatics to reach their fitness goals</p>
+        <a href="https://github.com/igaboc/digital_pt" target="_blank">Visit Github here</a>
+      </div>
+    </div>
+  </div>
+  <!-- FORM SECTION -->
+  <div id="contact" class="form-section">
+    <div class="section-heading">
+      <h3>let's talk</h3> 
+    </div>   
+    <div>
+      <form action="https://formspree.io/igaboc@gmail.com" method="POST">
+        <div class="form-input">
+          <label for="fullname">Name:  </label>
+          <input type="text" id="fullname" name="fullname" placeholder="Your name..."> 
+        </div>
 
-                <div class="form-input">
-                    <label for="email">Email:</label>
-                    <input type="text" id="email" name="_replyto" placeholder="Your email..."> 
-                </div>
+        <div class="form-input">
+          <label for="email">Email:</label>
+          <input type="text" id="email" name="_replyto" placeholder="Your email..."> 
+        </div>
 
-                <div class="form-message">
-                    <label for="message">Message:</label>
-                    <textarea name="Message" id="" cols="30" rows="10" placeholder="Your message..."></textarea>
-                </div>    
+        <div class="form-message">
+          <label for="message">Message:</label>
+          <textarea name="Message" id="" cols="30" rows="10" placeholder="Your message..."></textarea>
+        </div>    
 
-                <input class="form-button" type="submit" value="Submit" name="submittedfromuser">
-            
-            </form>
-        </div>     
-    </div>
-    <!-- CONNECT SECTION -->
-    <div class="connect">
-        <a href="https://github.com/igaboc" target="_blank"><img src="/assets/img/github.png"></a>
-        <a href="https://www.linkedin.com/in/isabellegaboc/" target="_blank"><img src="/assets/img/linkedin.png"></a>
-        <a href="https://www.figma.com/files/recent" target="_blank"><img src="/assets/img/figma.png"></a>
-    </div>
+        <input class="form-button" type="submit" value="Submit" name="submittedfromuser">
+      
+      </form>
+    </div>     
+  </div>
+  <!-- CONNECT SECTION -->
+  <div class="connect">
+    <a href="https://github.com/igaboc" target="_blank"><img src="/assets/img/github.png"></a>
+    <a href="https://www.linkedin.com/in/isabellegaboc/" target="_blank"><img src="/assets/img/linkedin.png"></a>
+    <a href="https://www.figma.com/files/recent" target="_blank"><img src="/assets/img/figma.png"></a>
+  </div>
 </body>
 </html>
